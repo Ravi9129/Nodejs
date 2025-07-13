@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Raju",
+      "age": 28,
+      "salary": 35000,
+      "city": "Mumbai"
+    },
+    {
+      "id": 2,
+      "name": "Shyam",
+      "age": 32,
+      "salary": 42000,
+      "city": "Delhi"
+    },
+    {
+      "id": 3,
+      "name": "Ravi",
+      "age": 25,
+      "salary": 30000,
+      "city": "Bangalore"
+    },
+    {
+      "id": 4,
+      "name": "Ravi",
+      "age": 25,
+      "salary": 30000,
+      "city": "Bangalore"
+    }
+  ]
+}
